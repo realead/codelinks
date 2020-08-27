@@ -5,4 +5,5 @@ links to things about coding/programming I found interesting
 
 ### CppCon
 
-* CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People". Trying to improve sorting with a lot of insights (and fun) https://www.youtube.com/watch?v=FJJTYQYB1JQ&list=TLPQMjcwODIwMjCkpRIv4jhcDA&index=1
+* CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People". Trying to improve sorting with a lot of insights (and fun) https://www.youtube.com/watch?v=FJJTYQYB1JQ
+* CppCon 2016: Nicholas Ormrod “The strange details of std::string at Facebook"  Short string optimization, nifty tricks, bug UB when reading uninitialized memory: https://www.youtube.com/watch?v=kPR8h4-qZdk
